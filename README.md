@@ -1,7 +1,7 @@
 - Hi, I’m Alexander Antkowiak
 - I’m interested in game development and coding in general.
-- I already know how to use Java and Python.
-- I’m currently learning how to use Unity, the C languages (C, C#, & C++), and HTML.
+- I know generally how to use Java and Python.
+- I’m currently learning how to use Unity, Css, and HTML.
 - My Hobbys include gaming, building PCs, and building custom mechanical keyboards
 - How to reach me: alexander.f.antkowiak@gmail.com
 
