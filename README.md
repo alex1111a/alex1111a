@@ -1,7 +1,7 @@
 - Hi, I’m Alexander Antkowiak
-- I’m interested in game development and coding in general.
+- I’m interested in Ux design and Ui design.
 - I know generally how to use Java and Python.
-- I’m currently learning how to use Unity, Css, and HTML.
+- I’m currently learning how to use Figma.
 - My Hobbys include gaming, building PCs, and building custom mechanical keyboards
 - How to reach me: alexander.f.antkowiak@gmail.com
 
